@@ -1,9 +1,7 @@
-- 👋 Hi, I’m diya nasir v
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning python
-- 📫reach me diyanasir01@gmail.com
-- 😄 Pronouns: dia
-
+B.Tech IT Student @ CUSAT | Full-Stack Developer
+Building SaaS, Web Apps & Hackathon Projects
+React • JavaScript • Supabase • Bootstrap
+Always learning and creating 
 
 <!---
 diyanasirv/diyanasirv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
